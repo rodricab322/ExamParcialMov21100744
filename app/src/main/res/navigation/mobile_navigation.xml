@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navGastosFragment">
+    <fragment
+        android:id="@+id/navEquiposFragment"
+        android:name="dev.sebasbolivar.examparcialmov.ui.equipos.EquiposFragment"
+        android:label="Equipos"
+        tools:layout="@layout/fragment_equipos" />
+    <fragment
+        android:id="@+id/navTareasFragment"
+        android:name="dev.sebasbolivar.examparcialmov.ui.tareas.TareasFragment"
+        android:label="Tareas"
+        tools:layout="@layout/fragment_tareas" />
+    <fragment
+        android:id="@+id/navGastosFragment"
+        android:name="dev.sebasbolivar.examparcialmov.ui.gastos.GastosFragment"
+        android:label="Gastos"
+        tools:layout="@layout/fragment_gastos" />
+</navigation>

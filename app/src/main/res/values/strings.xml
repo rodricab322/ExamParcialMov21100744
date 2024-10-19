@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ExamParcialMov</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_gastos">Gastos</string>
+    <string name="menu_tareas">Tareas</string>
+    <string name="menu_equipos">Equipos</string>
+    <string name="valtviniciarsesion">Iniciar Sesión</string>
+    <string name="valtvbienvenidos">Hola! Bienvenidos a nuestra App</string>
+    <string name="valbtingresar">INGRESAR\n</string>
+    <string name="valenteruser">Enter email</string>
+    <string name="valenterpassword">Enter password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valgastos">Gastos</string>
+    <string name="valingresofijo">Ingreso fijo</string>
+    <string name="valgastofijo">Gasto fijo</string>
+    <string name="valgastovariable">Gasto variable</string>
+    <string name="valbtcalcular">Calcular</string>
+    <string name="valingreseingresofijo">Ingrese el ingreso fijo</string>
+    <string name="valingresegastofijo">Ingrese el gasto fijo</string>
+    <string name="valingresegastovaraible">Ingrese el gasto variable\n</string>
+    <string name="valingreseelgastofijo">Ingrese el gasto fijo</string>
+    <string name="valresultsaldo">"Saldo: "</string>
+</resources>
